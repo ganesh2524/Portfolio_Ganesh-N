@@ -1,15 +1,15 @@
 # Portfolio
-[About Myself](https://github.com/ganesh2524/Portfolio_Ganesh_N/blob/main/ReadAboutMe.md#about-myself)
+[About Myself](https://github.com/ganesh2524/Portfolio_Ganesh-N?tab=readme-ov-file#about-myself)
 
-[CV](https://github.com/ganesh2524/Portfolio_Ganesh_N/blob/main/ReadAboutMe.md#cv)
+[CV](https://github.com/ganesh2524/Portfolio_Ganesh-N?tab=readme-ov-file#cv)
 
-[Skills and Tools used in Project](https://github.com/ganesh2524/Portfolio_Ganesh_N/blob/main/ReadAboutMe.md#skills-and-softwares-used-in-project)
+[Skills/Tools](https://github.com/ganesh2524/Portfolio_Ganesh-N?tab=readme-ov-file#toolssoftwares)
 
-[Work Samples](https://github.com/ganesh2524/Portfolio_Ganesh_N/blob/main/ReadAboutMe.md#work-samples)
+[Work Samples](https://github.com/ganesh2524/Portfolio_Ganesh-N?tab=readme-ov-file#work-samples)
 
-[Self Learnings](https://github.com/ganesh2524/Portfolio_Ganesh_N/blob/main/ReadAboutMe.md#self-learnings)
+[Self Learnings](https://github.com/ganesh2524/Portfolio_Ganesh-N?tab=readme-ov-file#self-learnings)
 
-[Linkedin Profile](https://github.com/ganesh2524/Portfolio_Ganesh_N/blob/main/ReadAboutMe.md#linkedin-profile)
+[Linkedin Profile](https://github.com/ganesh2524/Portfolio_Ganesh-N?tab=readme-ov-file#linkedin-profile)
 
 
 ## About Myself
