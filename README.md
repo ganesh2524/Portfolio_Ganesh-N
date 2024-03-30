@@ -82,7 +82,7 @@ Requirement Analysis, Test Scenario/Test Case Development, Environment Setup, Te
 
 ## Work Samples
 
-xx----- **_We are not supposed to store/share them in external sources_** -----xx
+xx----- **_Not supposed to store/share them in external sources_** -----xx
 
 
 ## Self Learnings
